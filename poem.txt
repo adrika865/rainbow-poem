@@ -7,3 +7,6 @@ yellow
 Orange
 siver
 black
+white
+yellow red
+golden white
